@@ -2,7 +2,7 @@
     "name": "eliksir/seleniumstorycase-legacy",
 	"version": "1.0.0",
 	"require": {
-		"phpunit/phpunit-selenium": "~1.2",
+		"phpunit/phpunit-selenium": "~1.2"
 	}
 }
 
